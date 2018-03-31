@@ -1,3 +1,6 @@
-sut:
-  build: .
-  command: test.sh
+version: '3'
+
+services:
+  test:
+    build: .
+    command: ./test.sh
