@@ -7,9 +7,7 @@
 
 ## About
 
-This project has an ASCII cow saying "Hello world."
-
-To read more, see
+This project has an ASCII cow saying "Hello world." To learn more, see
 
 Billey, S. C., Konvalinka, M., & Matsen, F. A., IV. (2017). [On the enumeration of tanglegrams and tangled chains.](https://doi.org/10.1016/j.jcta.2016.10.003) Journal of Combinatorial Theory. Series A, 146, 239–263.
 
