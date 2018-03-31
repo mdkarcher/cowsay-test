@@ -4,4 +4,3 @@ RUN apt-get update -q && \
         cowsay \
         make
 RUN ln -s /usr/games/cowsay /usr/bin
-CMD cowsay "Hello world"
