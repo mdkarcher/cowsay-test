@@ -7,4 +7,4 @@ RUN ln -s /usr/games/cowsay /usr/bin
 
 COPY . /test
 WORKDIR /test
-CMD ./test.sh
+CMD ./typo-test.sh
