@@ -4,4 +4,4 @@ services:
   - docker
 
 script:
-  - docker run -t quay.io/matsen/cowsay-test /bin/bash -c "cowsay hello"
+  - docker run -t quay.io/matsen/cowsay-test /bin/bash -c "fortune | cowsay"
