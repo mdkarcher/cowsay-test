@@ -1,1 +1,0 @@
-cowsay "Hello world."
